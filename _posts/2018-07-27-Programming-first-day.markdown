@@ -22,4 +22,11 @@ tags:
     <img class="shadow" src="/img/in-post/keepprogramm.jpg" width="260">
     <br>
 </div>
+<div>
+	想写博客的原因主要是在目前的学习阶段一些有用的小知识容易遗忘
+	<br>
+	找个地方写下来，一点一点的积累。
+	<br>
+	顺便也有个地方可以给自己瞎逼逼
+</dir>
 
