@@ -13,12 +13,12 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username:
-#zhihu_username:
-github_username:Amorous77
-#twitter_username:
-#facebook_username:
-#linkedin_username:
+weibo_username:     null
+zhihu_username:     何没宜
+github_username:    Amorous77
+twitter_username:   null
+#facebook_username:  huxpro
+#linkedin_username:  firstname-lastname-idxxxx
 
 
 # Build settings
