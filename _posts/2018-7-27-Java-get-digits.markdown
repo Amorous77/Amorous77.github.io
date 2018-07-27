@@ -13,14 +13,15 @@ tags:
 
 考虑纯数运算
 >math.log
->		int x=12999;
-		int n =(int) (Math.log(x)+1)/2;
-		System.out.println(n);
+>int x=12999;
+<br>int n =(int) (Math.log(x)+1)/2;
+>System.out.println(n);
 
 发现缺点很多，弃用
 
 使用最朴素的算法，将int转换为string，求length
+
 >int x= 977123277;
-		int y=(x+"").length();
+>int y=(x+"").length();
 
 over
