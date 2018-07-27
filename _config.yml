@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: zhangxiquan12345@gmail.com
 description: "Pianist | Programmer | 一起进步。"
 keyword: "张席铨, Java, Python，钢琴, 古典音乐"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://amorous77.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
