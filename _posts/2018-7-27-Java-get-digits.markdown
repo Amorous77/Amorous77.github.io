@@ -4,15 +4,12 @@ title:      Java.get the digits of intger number
 subtitle:   "Java笔记，得到整数的位数"
 date:       2018-7-27 21:09:08
 author:     "Zxq"
-header-img: "img/Amorous77.jpg"
+header-img: "img/amorous77.jpg"
 tags:
     - Java
     - 笔记
 ---
 
-这是目前看到最方便准确的方法，利用Math.log函数
-Math.log函数对象的属性是double，利用int强制转换得到位数。
-不过限制在10位数以内。
 
 考虑纯数运算
 >math.log

@@ -1,5 +1,5 @@
-﻿---
-layout:     post
+---
+layout:     keynote
 title:      "Commemorating the first day of building a blog"
 subtitle:   "Go programming"
 date:       2018-07-27 00:00:00
@@ -12,7 +12,8 @@ tags:
 ---
 ### 总算找到一个没广告的地方写博客<br><small style="line-height:2em;">*明年大二，努力做个大佬。*</small>
 
-> 总算找到一个没广告的地方写博客，干干净净很舒服。
+总算找到一个没广告的地方写博客，干干净净很舒服。
+ 
 
 
 <div>
@@ -28,5 +29,7 @@ tags:
 	找个地方写下来，一点一点的积累。
 	<br>
 	顺便也有个地方可以给自己瞎逼逼
+	<br>
+	想要摆脱广告付出的可真多，markdown就不好学，不过想想明年还要用LaTEX，就忍一忍吧。
 </div>
 
