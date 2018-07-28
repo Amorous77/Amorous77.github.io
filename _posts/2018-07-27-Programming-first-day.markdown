@@ -1,5 +1,5 @@
 ---
-layout:     keynote
+layout:     post
 title:      "Commemorating the first day of building a blog"
 subtitle:   "Go programming"
 date:       2018-07-27 00:00:00
