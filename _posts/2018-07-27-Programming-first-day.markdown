@@ -34,5 +34,4 @@ tags:
 	想要摆脱广告付出的可真多，markdown就不好学，不过想想明年还要用LaTEX，就忍一忍吧。
 </div>
 
-<img src="/img/keepprogram.jpg" width="49%">  
-<img src="/img/zxq.jpg"width="49%">
+<img src="/img/keepprogram.jpg" width="49%"> <img src="/img/zxq.jpg" width="49%">
