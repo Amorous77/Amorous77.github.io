@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     null
-zhihu_username:     何没宜
+zhihu_username:     null
 github_username:    Amorous77
 twitter_username:   null
 #facebook_username:  huxpro
@@ -72,8 +72,8 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "心高气傲<br>谦虚做人"
-sidebar-avatar: /img/qrcode.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
+sidebar-avatar1: /img/zxq.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar2: /img/contect.jpg
 
 
 # Featured Tags
