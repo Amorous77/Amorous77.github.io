@@ -4,7 +4,7 @@ title:      "Commemorating the first day of building a blog"
 subtitle:   "Go programming"
 date:       2018-07-27 00:00:00
 author:     "Z"
-header-img: "img/bg1.jpg"
+header-img: "img/post-bg-1-1.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
@@ -20,9 +20,8 @@ tags:
     明年大二，努力做个大佬。
     <br>立下明年的flag：<b>学好Java，学好英语，学好数学。</b>
     <br>
-    <figure class="half">
-    <img src="/img/keepprogram.jpg">
-    <img src="/img/zxq.jpg">
+
+    
 </figure>
     <br>
 </div>
@@ -36,3 +35,4 @@ tags:
 	想要摆脱广告付出的可真多，markdown就不好学，不过想想明年还要用LaTEX，就忍一忍吧。
 </div>
 
+<img src="/img/keepprogram.jpg"><img src="/img/zxq.jpg">
