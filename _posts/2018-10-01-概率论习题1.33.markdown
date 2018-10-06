@@ -12,11 +12,12 @@ tags:
     - 概率论
 
 
-<div >
+<div>
     <b>题目：某人吸烟时在两个火柴盒中任选一个拿取火柴，设两盒火柴数量都为n，求一盒空而另外一盒剩下r根的概率
-    
 </div>
-`package probabilty;
+
+```
+package probabilty;
 import java.util.Random;
 public class test 
 {
@@ -43,7 +44,6 @@ public static void main(String[] args)
 System.out.println(count1);
 }
 }
-`
-
-时间原因仅考虑最简单的算法，后续会对该算法进行优化。
+```
+时间原因仅考虑最简单的算法，后续会对该算法进行优化。  
 2018年10月6日20:09:11
