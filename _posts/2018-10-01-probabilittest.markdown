@@ -1,0 +1,49 @@
+---
+layout:     post
+title:      "概率论习题1.35"
+subtitle:   "Java实现的仿真模拟"
+date:       2018年10月6日19:59:41
+author:     "Amorous77"
+header-img: "img/home-bg-o.jpg"
+tags:
+    - Java
+    - 数学
+    - 算法
+    - 概率论
+
+
+<div >
+    <b>题目：某人吸烟时在两个火柴盒中任选一个拿取火柴，设两盒火柴数量都为n，求一盒空而另外一盒剩下r根的概率
+    
+</div>
+`package probabilty;
+import java.util.Random;
+public class test 
+{
+public static void main(String[] args)
+{
+	int a;
+	int count1=0;
+	for(int j=0;j<100000000;j++) 
+	{
+		int box1=5;
+		int box2=5;
+		for(int i=0;i<10;i++) 
+			{
+			Random random= new Random();
+			a=random.nextInt(2);
+			if (a==1)
+				box1-=1;
+			else 
+				box2-=1;
+			if(box1==0&&box2==2||box2==0&&box1==2)
+			count1+=1;
+			}
+	}
+System.out.println(count1);
+}
+}
+`
+
+时间原因仅考虑最简单的算法，后续会对该算法进行优化。
+2018年10月6日20:09:11
