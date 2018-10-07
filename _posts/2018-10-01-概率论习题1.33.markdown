@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "概率论习题1.35"
+title:      概率论习题1.35
 subtitle:   "Java实现的仿真模拟"
-date:       2018年10月6日19:59:41
+date:       2018-10-7 21:09:08
 author:     "Amorous77"
 header-img: "img/home-bg-o.jpg"
 tags:
@@ -11,7 +11,10 @@ tags:
     - 算法
     - 概率论
 ---
-<b>题目：某人吸烟时在两个火柴盒中任选一个拿取火柴，设两盒火柴数量都为n，求一盒空而另外一盒剩下r根的概率。
+
+
+
+<b>题目：某人吸烟时在两个火柴盒中任选一个拿取火柴，设两盒火柴数量都为n，求一盒空而另外一盒剩下r根的概率。<br />
 
 ```Java
 package probabilty;
