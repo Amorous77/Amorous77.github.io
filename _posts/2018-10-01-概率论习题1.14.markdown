@@ -1,6 +1,3 @@
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 ---
 layout:     post
 title:      概率论习题1.14
@@ -14,7 +11,17 @@ tags:
 ---
 
 
-
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 **题目：n个人将帽子混在一起后任取一顶，求恰有k个人那对自己帽子的概率<br />**
 
 解：<br>
