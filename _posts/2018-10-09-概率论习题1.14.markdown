@@ -20,5 +20,5 @@ tags:
 在这里，我们引入[错排数(Derangement)](https://baike.baidu.com/item/%E9%94%99%E6%8E%92%E9%97%AE%E9%A2%98/3849290)的概念：如3位数中，321、231就是错排数，即完全没有一个数字在正确的自然数顺序上的组合数，用!n表示n位数的错排数，错排数的通项公式是：$$!n=n!\sum\limits_{i=0}^n\frac{(-1)^i}{i!}\tag{2}$$。<br>
 
 将（1）中的（n-k）!换成!（n-k）,在化简，便得到了这道题的答案：<br>
-$$\frac{\sum\nolimits_{i=0}^{n-k}(-1)^i}{k!i!}\tag{3}$$ <br>
+$$\frac{\sum\limits_{i=0}^{n-k}(-1)^i}{k!i!}\tag{3}$$ <br>
 
