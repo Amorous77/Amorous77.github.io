@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      专业外语期中试题
+subtitle:   "专业外语期中试题"
+date:       2018-11-7 21:09:08
+author:     "Amorous77"
+header-img: "img/home-bg-o.jpg"
+tags:
+    - Java
+    - 数学
+    - 算法
+    - 概率论
+---
+
+
+<br>
+ 
+ 
+{% pdf  test.pdf %} 
+ 
+ 
+<br>
