@@ -12,7 +12,7 @@ tags:
 
 
 <br>
-<embed src="https://amorous77.github.io/midtermtest.pdf" type="application/pdf" />
+<embed src="https://amorous77.github.io/midtermtest.pdf" type="application/pdf" width="1200px" height="1000px"  />
 
  
  
