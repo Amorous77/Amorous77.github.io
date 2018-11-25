@@ -9,11 +9,8 @@ tags:
     - 数学
     - 概率论
 ---
-
-<div align=center>
+<center>
 <br>
-<embed src="https://amorous77.github.io/midtermtest.pdf" type="application/pdf" width="1000px" height="1000px"  />
-
- 
- 
-<br></div>
+<embed src="https://amorous77.github.io/midtermtest.pdf" type="application/pdf" width="900px" height="1000px"  /> 
+<br>
+</center>
