@@ -10,10 +10,10 @@ tags:
     - 概率论
 ---
 
-
+<div align=center>
 <br>
-<embed src="https://amorous77.github.io/midtermtest.pdf" type="application/pdf" width="1200px" height="1000px"  />
+<embed src="https://amorous77.github.io/midtermtest.pdf" type="application/pdf" width="1000px" height="1000px"  />
 
  
  
-<br>
+<br></div>
